@@ -80,7 +80,7 @@ One-to-many relationships were established between dimension tables and the prim
 
 ---
 
-![Dashboard Overview](Project_Relevant_Photos/dashboard_overview.png)
+<img src="https://github.com/Neelaksh-Lohani/risk-constrained-procurement-optimization-Analysis/blob/main/Project_Relevant_Photos/Dashboard_Overview.png?raw=true" width="1000"/>
 
 ---
 
